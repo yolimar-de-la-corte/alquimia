@@ -21,3 +21,8 @@ PWA gamificada de cocina. Monorepo Nx con pnpm. Windows + PowerShell.
 - Antes de dar una tarea por terminada: tests y lint en verde.
 - Textos de la interfaz en español de España.
 - Commits en formato convencional (feat:, fix:, chore:...).
+
+## Plan y seguimiento
+- Plan completo del MVP: docs/PLAN.md
+- Estado y siguiente paso: docs/PROGRESO.md
+- Al empezar una sesión, lee PROGRESO.md. Al terminar una tarea, márcala y añade la siguiente.
