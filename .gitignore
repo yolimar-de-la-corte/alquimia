@@ -49,3 +49,9 @@ Thumbs.db
 __screenshots__/
 
 vite.config.*.timestamp*
+
+.env
+.env.*
+!.env.example
+vitest.config.*.timestamp*
+.vitest

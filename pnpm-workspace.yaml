@@ -7,3 +7,4 @@ allowBuilds:
   lmdb: false
   msgpackr-extract: false
   "@nestjs/core": false
+  '@swc/core': set this to true or false
